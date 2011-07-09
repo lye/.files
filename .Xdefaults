@@ -1,0 +1,7 @@
+Aterm*background: #000000
+Aterm*foreground: #ffffff
+Aterm*transparent: true
+Aterm*shading: 60
+Aterm*saveLines: 1024
+Aterm*scrollBar_right: true
+Aterm*fading: 70
