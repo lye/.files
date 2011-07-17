@@ -11,8 +11,6 @@ alias la	ls -a
 alias lf	ls -FA
 alias ll	ls -lA
 
-alias less more
-
 # A righteous umask
 umask 22
 
@@ -21,7 +19,7 @@ set path = (/sbin /bin /usr/sbin /usr/bin /usr/games /usr/local/sbin /usr/local/
 setenv GOROOT /usr/local/lib/go
 
 setenv	EDITOR	vim
-setenv	PAGER	more
+setenv	PAGER	less
 setenv	BLOCKSIZE	K
 
 set autolist=ambiguous
