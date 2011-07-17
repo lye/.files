@@ -1,9 +1,12 @@
+*.swp
+/.Xauthority
 /.cache
 /.config
 /.history
 /.lesshst
 /.pki
 /.ssh
-/Downloads
 /.viminfo
+/.xmonad/*
+/Downloads
 /code
