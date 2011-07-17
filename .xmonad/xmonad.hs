@@ -1,5 +1,5 @@
 import XMonad
 
 main = xmonad defaultConfig
-	{ terminal = "/usr/local/bin/aterm"
+	{ terminal = "/usr/local/bin/xterm"
 	}
