@@ -5,3 +5,16 @@ Aterm*shading: 60
 Aterm*saveLines: 1024
 Aterm*scrollBar_right: true
 Aterm*fading: 70
+
+XTerm*messages: false
+XTerm*allowTcapOps: false
+XTerm*allowTitleOps: false
+XTerm*allowWindowOps: false
+XTerm*background: #333333
+XTerm*cursorBlink: true
+XTerm*foreground: #ffffff
+XTerm*rightScrollBar: true
+XTerm*scrollBar: true
+XTerm*selectToClipboard: true
+XTerm*utf8: always
+XTerm*visualBell: true
