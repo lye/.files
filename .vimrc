@@ -8,6 +8,9 @@ set incsearch		" do incremental searching
 
 set number
 set visualbell
+
+set shiftwidth=4
+set tabstop=4
   
 " Don't use Ex mode, use Q for formatting
 map Q gq
