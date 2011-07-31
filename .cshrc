@@ -21,6 +21,7 @@ setenv GOROOT /usr/local/lib/go
 setenv	EDITOR	vim
 setenv	PAGER	less
 setenv	BLOCKSIZE	K
+setenv  CLICOLOR
 
 set autolist=ambiguous
 set nobeep
