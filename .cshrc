@@ -16,6 +16,8 @@ umask 22
 
 set path = (/sbin /bin /usr/sbin /usr/bin /usr/games /usr/local/sbin /usr/local/bin $HOME/bin)
 
+setenv GOOS freebsd
+setenv GOARCH amd64
 setenv GOROOT /usr/local/lib/go
 
 setenv	EDITOR	vim
