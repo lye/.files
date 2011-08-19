@@ -20,6 +20,4 @@ endif
 
 let colors_name = "piety"
 
-hi Normal ctermbg=0
-
 " vim: sw=2
