@@ -24,6 +24,7 @@ setenv	EDITOR	vim
 setenv	PAGER	less
 setenv	BLOCKSIZE	K
 setenv  CLICOLOR
+setenv  LSCOLORS gxfxcxdxbxegedabagacad
 
 set autolist=ambiguous
 set nobeep
