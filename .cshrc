@@ -18,7 +18,7 @@ set path = (/sbin /bin /usr/sbin /usr/bin /usr/games /usr/local/sbin /usr/local/
 
 setenv GOOS freebsd
 setenv GOARCH amd64
-setenv GOROOT /usr/local/lib/go
+setenv GOROOT /usr/local/go
 
 setenv	EDITOR	vim
 setenv	PAGER	less
