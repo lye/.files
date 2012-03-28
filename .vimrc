@@ -13,6 +13,7 @@ set shiftwidth=4
 set tabstop=4
 
 set foldmethod=indent
+set rtp+=$GOROOT/misc/vim
   
 " Don't use Ex mode, use Q for formatting
 map Q gq
