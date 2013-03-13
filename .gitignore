@@ -14,3 +14,7 @@
 /.irssi
 /.cabal
 /.fontconfig
+.mplayer
+.nv
+.serverauth.*
+dl
