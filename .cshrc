@@ -32,7 +32,7 @@ set nobeep
 
 if ($?prompt) then
 	# An interactive shell -- set some stuff up
-	set prompt = "`/usr/bin/whoami`@`/bin/hostname -s`> "
+	set prompt = "`/usr/bin/whoami`@`/bin/hostname -s | tr '[:upper:]' '[:lower:]'`> "
 	set filec
 	set history = 100
 	set savehist = 100
