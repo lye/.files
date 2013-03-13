@@ -1,3 +1,5 @@
 [user]
 	name = lye
 	email = lye@
+[push]
+	default = simple
